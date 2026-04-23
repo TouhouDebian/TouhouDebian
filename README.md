@@ -1,5 +1,7 @@
 ## Hi! Welcome to get to know me 👋
 
+<img src="image/aaa.png" alt="头像" width="200" align="left">
+
 
 
 
