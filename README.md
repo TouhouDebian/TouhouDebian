@@ -18,4 +18,4 @@ The story takes a colorful turn from there: while seeking troubleshooting help o
 
 
 
-(used Google Gemini to fix my grammar and spelling issues because I am really not good at English ^^;)
+###### （used Google Gemini to fix my grammar and spelling issues because I am really not good at English ^^;)
