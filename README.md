@@ -3,8 +3,6 @@
 
 
 
-
-
 - 🔭 I’m currently working on AP exam.
 - 🌱 I’m currently learning basic knowledge of computer science.
 - 🤔 I’m looking for help with coding (I cannot code by myself!!!)
@@ -18,4 +16,4 @@ As it turned out, the Android subsystem had some compatibility issues with my ha
 
 The story takes a colorful turn from there: while seeking troubleshooting help online, I noticed that a vast number of helpful experts in the Linux community sported anime avatars, many of whom were hardcore Touhou Project fans. Under their subtle influence, I eventually found myself drawn into that world as well, becoming a proud dual enthusiast of both Linux and Touhou.
 
-(translated from Chinese by Google Gemini because I am really not good at English ^^;)
+(used Google Gemini to fix my grammar and spelling issues because I am really not good at English ^^;)
