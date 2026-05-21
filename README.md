@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on TOEFL exam. (5 times!!!)
+- 🔭 I’m currently working on TOEFL exam (5 times!!!)
 - 🌱 I’m currently learning basic knowledge of computer science.
 - 🤔 I’m looking for help with coding (I cannot code by myself!!!)
 
