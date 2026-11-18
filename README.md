@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="Touhou_Extreme_Fullxxxxx.gif" width="100%" style="max-width: 100%; image-rendering: pixelated; image-rendering: crisp-edges;">
+</p>
+
+
+
+
+
+
 # Hi! Welcome to get to know me 👋
 
 
@@ -6,11 +15,8 @@
 
 - 🌱 I’m currently learning basic knowledge of computer science.
 - 🤔 I’m looking for help with coding (I cannot code by myself!!!)
-<p align="center">
-  <img src="Touhou_Extreme_Fullxxxxx.gif" width="100%" style="max-width: 100%; image-rendering: pixelated; image-rendering: crisp-edges;">
-</p>
 
-<!-- <div align="center">
+
 
 ### My fascination with computing began with a stroke of accidental "betrayal."
 
